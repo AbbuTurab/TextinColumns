@@ -1,0 +1,15 @@
+.container {
+    margin-left: 10%;
+}
+    
+.main {
+    margin-right: 100px;
+    width: 300px;
+    float: left;
+       
+}
+
+.first-container {
+    height: 150px;
+    margin-bottom: 50px;
+}
